@@ -14,8 +14,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=504 ",
-            "marker-symbol": "art-gallery"
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=504\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=504<\/a>"
          }
 },
 { 
@@ -32,8 +31,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=132 ",
-            "marker-symbol": "art-gallery"
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=132\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=132<\/a>"
          }
 },
 { 
@@ -50,7 +48,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=99 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=99\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=99<\/a>"
          }
 },
 { 
@@ -67,7 +65,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78744,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=110 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=110\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=110<\/a>"
          }
 },
 { 
@@ -84,7 +82,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78727,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=114 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=114\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=114<\/a>"
          }
 },
 { 
@@ -101,7 +99,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=513 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=513\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=513<\/a>"
          }
 },
 { 
@@ -118,7 +116,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=516 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=516\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=516<\/a>"
          }
 },
 { 
@@ -135,7 +133,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=506 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=506\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=506<\/a>"
          }
 },
 { 
@@ -152,7 +150,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=514 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=514\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=514<\/a>"
          }
 },
 { 
@@ -169,7 +167,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=515 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=515\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=515<\/a>"
          }
 },
 { 
@@ -186,7 +184,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=191 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=191\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=191<\/a>"
          }
 },
 { 
@@ -203,7 +201,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=197 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=197\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=197<\/a>"
          }
 },
 { 
@@ -220,7 +218,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78757,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=519 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=519\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=519<\/a>"
          }
 },
 { 
@@ -237,7 +235,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78746,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=128 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=128\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=128<\/a>"
          }
 },
 { 
@@ -254,7 +252,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78757,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=520 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=520\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=520<\/a>"
          }
 },
 { 
@@ -271,7 +269,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX ",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=529 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=529\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=529<\/a>"
          }
 },
 { 
@@ -288,7 +286,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78756,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=133 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=133\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=133<\/a>"
          }
 },
 { 
@@ -305,7 +303,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=137 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=137\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=137<\/a>"
          }
 },
 { 
@@ -322,7 +320,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=125 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=125\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=125<\/a>"
          }
 },
 { 
@@ -339,7 +337,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78746,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=98 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=98\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=98<\/a>"
          }
 },
 { 
@@ -356,7 +354,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78704,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=117 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=117\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=117<\/a>"
          }
 },
 { 
@@ -373,7 +371,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=526 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=526\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=526<\/a>"
          }
 },
 { 
@@ -390,7 +388,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=212 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=212\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=212<\/a>"
          }
 },
 { 
@@ -407,7 +405,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78723,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=144 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=144\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=144<\/a>"
          }
 },
 { 
@@ -424,7 +422,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=172 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=172\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=172<\/a>"
          }
 },
 { 
@@ -441,7 +439,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=196 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=196\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=196<\/a>"
          }
 },
 { 
@@ -458,7 +456,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=187 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=187\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=187<\/a>"
          }
 },
 { 
@@ -475,7 +473,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=91 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=91\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=91<\/a>"
          }
 },
 { 
@@ -492,7 +490,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=95 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=95\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=95<\/a>"
          }
 },
 { 
@@ -509,7 +507,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78756,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=133 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=133\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=133<\/a>"
          }
 },
 { 
@@ -526,7 +524,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78759,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=508 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=508\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=508<\/a>"
          }
 },
 { 
@@ -543,7 +541,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=180 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=180\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=180<\/a>"
          }
 },
 { 
@@ -560,7 +558,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=112 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=112\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=112<\/a>"
          }
 },
 { 
@@ -577,7 +575,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78724,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=531 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=531\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=531<\/a>"
          }
 },
 { 
@@ -594,7 +592,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=134 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=134\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=134<\/a>"
          }
 },
 { 
@@ -611,7 +609,7 @@
             "Art Location City": "Austin",
             "Art Location State": "Texas",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=537 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=537\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=537<\/a>"
          }
 },
 { 
@@ -628,7 +626,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=105 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=105\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=105<\/a>"
          }
 },
 { 
@@ -645,7 +643,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78723,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=218 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=218\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=218<\/a>"
          }
 },
 { 
@@ -662,7 +660,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX ",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=529 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=529\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=529<\/a>"
          }
 },
 { 
@@ -679,7 +677,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=104 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=104\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=104<\/a>"
          }
 },
 { 
@@ -696,7 +694,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=173 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=173\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=173<\/a>"
          }
 },
 { 
@@ -713,7 +711,7 @@
             "Art Location City": "Austin",
             "Art Location State": "Texas",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=538 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=538\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=538<\/a>"
          }
 },
 { 
@@ -730,7 +728,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=543 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=543\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=543<\/a>"
          }
 },
 { 
@@ -747,7 +745,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX ",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=507 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=507\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=507<\/a>"
          }
 },
 { 
@@ -764,7 +762,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=102 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=102\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=102<\/a>"
          }
 },
 { 
@@ -781,7 +779,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=119 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=119\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=119<\/a>"
          }
 },
 { 
@@ -798,7 +796,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=136 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=136\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=136<\/a>"
          }
 },
 { 
@@ -815,7 +813,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=92 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=92\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=92<\/a>"
          }
 },
 { 
@@ -832,7 +830,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78746,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=128 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=128\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=128<\/a>"
          }
 },
 { 
@@ -849,7 +847,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78744,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=129 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=129\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=129<\/a>"
          }
 },
 { 
@@ -866,7 +864,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78744,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=130 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=130\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=130<\/a>"
          }
 },
 { 
@@ -883,7 +881,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=135 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=135\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=135<\/a>"
          }
 },
 { 
@@ -900,7 +898,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78749,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=126 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=126\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=126<\/a>"
          }
 },
 { 
@@ -917,7 +915,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=181 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=181\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=181<\/a>"
          }
 },
 { 
@@ -934,7 +932,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=140 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=140\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=140<\/a>"
          }
 },
 { 
@@ -951,7 +949,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=185 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=185\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=185<\/a>"
          }
 },
 { 
@@ -968,7 +966,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78703,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=122 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=122\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=122<\/a>"
          }
 },
 { 
@@ -985,7 +983,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=183 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=183\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=183<\/a>"
          }
 },
 { 
@@ -1002,7 +1000,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=108 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=108\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=108<\/a>"
          }
 },
 { 
@@ -1019,7 +1017,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=195 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=195\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=195<\/a>"
          }
 },
 { 
@@ -1036,7 +1034,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=224 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=224\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=224<\/a>"
          }
 },
 { 
@@ -1053,7 +1051,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=164 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=164\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=164<\/a>"
          }
 },
 { 
@@ -1070,7 +1068,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78724,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=533 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=533\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=533<\/a>"
          }
 },
 { 
@@ -1087,7 +1085,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=513 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=513\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=513<\/a>"
          }
 },
 { 
@@ -1104,7 +1102,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=222 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=222\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=222<\/a>"
          }
 },
 { 
@@ -1121,7 +1119,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78727,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=114 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=114\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=114<\/a>"
          }
 },
 { 
@@ -1138,7 +1136,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=193 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=193\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=193<\/a>"
          }
 },
 { 
@@ -1155,7 +1153,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=534 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=534\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=534<\/a>"
          }
 },
 { 
@@ -1172,7 +1170,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=189 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=189\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=189<\/a>"
          }
 },
 { 
@@ -1189,7 +1187,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78704,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=203 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=203\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=203<\/a>"
          }
 },
 { 
@@ -1206,7 +1204,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=174 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=174\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=174<\/a>"
          }
 },
 { 
@@ -1223,7 +1221,7 @@
             "Art Location City": "Austin",
             "Art Location State": "Texas",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=539 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=539\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=539<\/a>"
          }
 },
 { 
@@ -1240,7 +1238,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78705,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=511 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=511\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=511<\/a>"
          }
 },
 { 
@@ -1257,7 +1255,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78704,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=202 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=202\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=202<\/a>"
          }
 },
 { 
@@ -1274,7 +1272,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=96 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=96\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=96<\/a>"
          }
 },
 { 
@@ -1291,7 +1289,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=107 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=107\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=107<\/a>"
          }
 },
 { 
@@ -1308,7 +1306,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78759,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=94 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=94\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=94<\/a>"
          }
 },
 { 
@@ -1325,7 +1323,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78746,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=116 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=116\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=116<\/a>"
          }
 },
 { 
@@ -1342,7 +1340,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=104 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=104\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=104<\/a>"
          }
 },
 { 
@@ -1359,7 +1357,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78703,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=122 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=122\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=122<\/a>"
          }
 },
 { 
@@ -1376,7 +1374,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=185 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=185\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=185<\/a>"
          }
 },
 { 
@@ -1393,7 +1391,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=509 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=509\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=509<\/a>"
          }
 },
 { 
@@ -1410,7 +1408,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=182 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=182\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=182<\/a>"
          }
 },
 { 
@@ -1427,7 +1425,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78744,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=131 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=131\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=131<\/a>"
          }
 },
 { 
@@ -1444,7 +1442,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=184 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=184\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=184<\/a>"
          }
 },
 { 
@@ -1461,7 +1459,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=169 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=169\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=169<\/a>"
          }
 },
 { 
@@ -1478,7 +1476,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=168 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=168\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=168<\/a>"
          }
 },
 { 
@@ -1495,7 +1493,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=170 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=170\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=170<\/a>"
          }
 },
 { 
@@ -1512,7 +1510,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=139 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=139\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=139<\/a>"
          }
 },
 { 
@@ -1529,7 +1527,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78738,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=521 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=521\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=521<\/a>"
          }
 },
 { 
@@ -1546,7 +1544,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78738,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=522 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=522\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=522<\/a>"
          }
 },
 { 
@@ -1563,7 +1561,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=535 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=535\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=535<\/a>"
          }
 },
 { 
@@ -1580,7 +1578,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=536 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=536\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=536<\/a>"
          }
 },
 { 
@@ -1597,7 +1595,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=175 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=175\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=175<\/a>"
          }
 },
 { 
@@ -1614,7 +1612,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=208 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=208\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=208<\/a>"
          }
 },
 { 
@@ -1631,7 +1629,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78744,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=220 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=220\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=220<\/a>"
          }
 },
 { 
@@ -1648,7 +1646,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78704,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=217 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=217\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=217<\/a>"
          }
 },
 { 
@@ -1665,7 +1663,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=186 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=186\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=186<\/a>"
          }
 },
 { 
@@ -1682,7 +1680,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=221 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=221\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=221<\/a>"
          }
 },
 { 
@@ -1699,7 +1697,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=221 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=221\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=221<\/a>"
          }
 },
 { 
@@ -1716,7 +1714,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=176 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=176\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=176<\/a>"
          }
 },
 { 
@@ -1733,7 +1731,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=221 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=221\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=221<\/a>"
          }
 },
 { 
@@ -1750,7 +1748,7 @@
             "Art Location City": "Austin",
             "Art Location State": "Texas",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=542 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=542\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=542<\/a>"
          }
 },
 { 
@@ -1767,7 +1765,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=120 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=120\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=120<\/a>"
          }
 },
 { 
@@ -1784,7 +1782,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=517 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=517\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=517<\/a>"
          }
 },
 { 
@@ -1801,7 +1799,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=190 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=190\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=190<\/a>"
          }
 },
 { 
@@ -1818,7 +1816,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=526 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=526\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=526<\/a>"
          }
 },
 { 
@@ -1835,7 +1833,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78744,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=129 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=129\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=129<\/a>"
          }
 },
 { 
@@ -1852,7 +1850,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=99 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=99\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=99<\/a>"
          }
 },
 { 
@@ -1869,7 +1867,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=100 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=100\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=100<\/a>"
          }
 },
 { 
@@ -1886,7 +1884,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=101 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=101\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=101<\/a>"
          }
 },
 { 
@@ -1903,7 +1901,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=534 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=534\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=534<\/a>"
          }
 },
 { 
@@ -1920,7 +1918,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=300 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=300\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=300<\/a>"
          }
 },
 { 
@@ -1937,7 +1935,7 @@
             "Art Location City": "Austin",
             "Art Location State": "Texas",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=540 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=540\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=540<\/a>"
          }
 },
 { 
@@ -1954,7 +1952,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78746,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=545 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=545\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=545<\/a>"
          }
 },
 { 
@@ -1971,7 +1969,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=532 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=532\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=532<\/a>"
          }
 },
 { 
@@ -1988,7 +1986,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=101 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=101\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=101<\/a>"
          }
 },
 { 
@@ -2005,7 +2003,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=500 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=500\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=500<\/a>"
          }
 },
 { 
@@ -2022,7 +2020,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=143 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=143\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=143<\/a>"
          }
 },
 { 
@@ -2039,7 +2037,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78727,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=127 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=127\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=127<\/a>"
          }
 },
 { 
@@ -2056,7 +2054,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=301 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=301\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=301<\/a>"
          }
 },
 { 
@@ -2073,7 +2071,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=209 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=209\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=209<\/a>"
          }
 },
 { 
@@ -2090,7 +2088,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=541 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=541\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=541<\/a>"
          }
 },
 { 
@@ -2107,7 +2105,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=93 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=93\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=93<\/a>"
          }
 },
 { 
@@ -2124,7 +2122,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=192 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=192\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=192<\/a>"
          }
 },
 { 
@@ -2141,7 +2139,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=198 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=198\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=198<\/a>"
          }
 },
 { 
@@ -2158,7 +2156,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=103 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=103\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=103<\/a>"
          }
 },
 { 
@@ -2175,7 +2173,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78704,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=106 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=106\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=106<\/a>"
          }
 },
 { 
@@ -2192,7 +2190,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=107 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=107\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=107<\/a>"
          }
 },
 { 
@@ -2209,7 +2207,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=200 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=200\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=200<\/a>"
          }
 },
 { 
@@ -2226,7 +2224,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=200 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=200\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=200<\/a>"
          }
 },
 { 
@@ -2243,7 +2241,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=178 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=178\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=178<\/a>"
          }
 },
 { 
@@ -2260,7 +2258,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=177 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=177\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=177<\/a>"
          }
 },
 { 
@@ -2277,7 +2275,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=118 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=118\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=118<\/a>"
          }
 },
 { 
@@ -2294,7 +2292,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78721,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=123 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=123\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=123<\/a>"
          }
 },
 { 
@@ -2311,7 +2309,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78744,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=129 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=129\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=129<\/a>"
          }
 },
 { 
@@ -2328,7 +2326,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=100 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=100\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=100<\/a>"
          }
 },
 { 
@@ -2345,7 +2343,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=166 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=166\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=166<\/a>"
          }
 },
 { 
@@ -2362,7 +2360,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=103 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=103\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=103<\/a>"
          }
 },
 { 
@@ -2379,7 +2377,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78704,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=106 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=106\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=106<\/a>"
          }
 },
 { 
@@ -2396,7 +2394,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=194 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=194\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=194<\/a>"
          }
 },
 { 
@@ -2413,7 +2411,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=167 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=167\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=167<\/a>"
          }
 },
 { 
@@ -2430,7 +2428,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=179 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=179\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=179<\/a>"
          }
 },
 { 
@@ -2447,7 +2445,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=205 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=205\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=205<\/a>"
          }
 },
 { 
@@ -2464,7 +2462,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78749,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=502 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=502\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=502<\/a>"
          }
 },
 { 
@@ -2481,7 +2479,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=216 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=216\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=216<\/a>"
          }
 },
 { 
@@ -2498,7 +2496,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=107 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=107\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=107<\/a>"
          }
 },
 { 
@@ -2515,7 +2513,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78753,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=518 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=518\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=518<\/a>"
          }
 },
 { 
@@ -2532,7 +2530,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78745,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=97 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=97\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=97<\/a>"
          }
 },
 { 
@@ -2549,7 +2547,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78746,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=116 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=116\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=116<\/a>"
          }
 },
 { 
@@ -2566,7 +2564,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=95 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=95\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=95<\/a>"
          }
 },
 { 
@@ -2583,7 +2581,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=505 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=505\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=505<\/a>"
          }
 },
 { 
@@ -2600,7 +2598,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78704,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=219 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=219\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=219<\/a>"
          }
 },
 { 
@@ -2617,7 +2615,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=165 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=165\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=165<\/a>"
          }
 },
 { 
@@ -2634,7 +2632,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78704,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=204 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=204\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=204<\/a>"
          }
 },
 { 
@@ -2651,7 +2649,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78703,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=138 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=138\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=138<\/a>"
          }
 },
 { 
@@ -2668,7 +2666,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78749,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=124 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=124\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=124<\/a>"
          }
 },
 { 
@@ -2685,7 +2683,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78749,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=111 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=111\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=111<\/a>"
          }
 },
 { 
@@ -2702,7 +2700,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78744,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=141 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=141\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=141<\/a>"
          }
 },
 { 
@@ -2719,7 +2717,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78704,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=117 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=117\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=117<\/a>"
          }
 },
 { 
@@ -2736,7 +2734,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=192 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=192\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=192<\/a>"
          }
 },
 { 
@@ -2753,7 +2751,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=198 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=198\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=198<\/a>"
          }
 },
 { 
@@ -2770,7 +2768,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78719,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=503 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=503\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=503<\/a>"
          }
 },
 { 
@@ -2787,7 +2785,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=215 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=215\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=215<\/a>"
          }
 },
 { 
@@ -2804,7 +2802,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=121 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=121\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=121<\/a>"
          }
 },
 { 
@@ -2821,7 +2819,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=115 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=115\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=115<\/a>"
          }
 },
 { 
@@ -2838,7 +2836,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=188 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=188\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=188<\/a>"
          }
 },
 { 
@@ -2855,7 +2853,7 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": null,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=544 "
+            "Website": "<a ref=\"http://www.austintexas.gov/aipp/aipp_detail.cfm?art=544\">http://www.austintexas.gov/aipp/aipp_detail.cfm?art=544<\/a>"
          }
 }]
 }
