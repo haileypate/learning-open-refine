@@ -14,8 +14,8 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78701,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=504 "
-            "marker-symbol": "art-gallery",
+            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=504 ",
+            "marker-symbol": "art-gallery"
          }
 },
 { 
@@ -32,8 +32,8 @@
             "Art Location City": "Austin",
             "Art Location State": "TX",
             "Art Location Zip": 78702,
-            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=132 "
-            "marker-symbol": "art-gallery",
+            "Website": "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=132 ",
+            "marker-symbol": "art-gallery"
          }
 },
 { 
