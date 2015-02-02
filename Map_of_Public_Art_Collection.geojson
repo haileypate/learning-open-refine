@@ -1,5 +1,6 @@
 {
    "type": "FeatureCollection",
+   "marker-symbol": "art-gallery",
       "features": [{ 
          "type": "Feature",
          "geometry": {
