@@ -1,0 +1,2859 @@
+{
+   "type": "FeatureCollection",
+      "features": [{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.265255505104278, -97.73647200312456]
+         },
+         "properties": {
+            "Artist" : "Ann M.Adams",
+            "Art Title" : "Big Chiller Blues",
+            "Location" : "Austin Convention Center Parking Garage/Chiller Tower",
+            "Art Location Street Address" : "5th Street and Sabine Street;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=504 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25976964072555, -97.70959126766877]
+         },
+         "properties": {
+            "Artist" : "Rene Anguiano",
+            "Art Title" : "Dawn to Dusk",
+            "Location" : "Eustasio Cepeda Branch",
+            "Art Location Street Address" : "651 North Pleasant Valley  Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=132 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25158178209171, -97.72072545231359]
+         },
+         "properties": {
+            "Artist" : "Joe Arellano",
+            "Art Title" : "The Children are the Future",
+            "Location" : "Holly Street Power Plant",
+            "Art Location Street Address" : "2400 Holly St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=99 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.210783569789555, -97.75245295558523]
+         },
+         "properties": {
+            "Artist" : "Tre Arenz",
+            "Art Title" : "Wall of Hands",
+            "Location" : "St. Elmo Service Center",
+            "Art Location Street Address" : "4411 Meinardus Road;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78744,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=110 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.41594458828731, -97.69589651948735]
+         },
+         "properties": {
+            "Artist" : "Tre Arenz",
+            "Art Title" : "Untitled",
+            "Location" : "North Austin Police Substation",
+            "Art Location Street Address" : "12400 Lamplight Village Ave.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78727,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=114 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.260024534650952, -97.73317439552804]
+         },
+         "properties": {
+            "Artist" : "Connie Arismendi",
+            "Art Title" : "Rayo de Esperanza - A Beacon of Hope: Sculpture; Community Kiosk; Benches",
+            "Location" : "Terrazas Branch Library",
+            "Art Location Street Address" : "1105 E. Cesar Chavez Street;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=513 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.265009999611948, -97.71688999987344]
+         },
+         "properties": {
+            "Artist" : "Connie Arismendi",
+            "Art Title" : "Trail of Tejano Legends: ¬°Estamos en Tejas!",
+            "Location" : "Town Lake Hike and Bike Trail (Trail of Tejano Legends)",
+            "Art Location Street Address" : "Roy Montelongo Scenic Overlook; Canterbury St and Pleasant Valley Rd",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=516 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.260024534650952, -97.73317439552804]
+         },
+         "properties": {
+            "Artist" : "Connie Arismendi",
+            "Art Title" : "El futuro es una p√°gina en blanco. ¬øQu√© escribir√°s en ella?",
+            "Location" : "Terrazas Branch Library",
+            "Art Location Street Address" : "1105 E. Cesar Chavez Street;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=506 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25799797632783, -97.73958365734592]
+         },
+         "properties": {
+            "Artist" : "Connie Arismendi",
+            "Art Title" : "Trail of Tejano Legends: Una Canci√≥n de Fe Y Familia",
+            "Location" : "Mexican American Cultural Center",
+            "Art Location Street Address" : "600 River Street;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=514 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.265009999611948, -97.71688999987344]
+         },
+         "properties": {
+            "Artist" : "Connie Arismendi",
+            "Art Title" : "Trail of Tejano Legends: Tenderly",
+            "Location" : "Town Lake Hike and Bike Trail (Trail of Tejano Legends)",
+            "Art Location Street Address" : "Festival Beach Park along the; Nash Hernandez Sr. Road ",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=515 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25976064750523, -97.753981803035]
+         },
+         "properties": {
+            "Artist" : "Twyla Arthur",
+            "Art Title" : "Autumn Ponds",
+            "Location" : "Palmer Event Center",
+            "Art Location Street Address" : "900 Barton Springs Road;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=191 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.263196057657183, -97.71330097103964]
+         },
+         "properties": {
+            "Artist" : "Twyla Arthur",
+            "Art Title" : "Celebrating Traditions",
+            "Location" : "Springdale Park",
+            "Art Location Street Address" : "Webberville Road;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=197 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.36249919613249, -97.73069835569646]
+         },
+         "properties": {
+            "Artist" : "Kathleen Ash",
+            "Art Title" : "Read More Books",
+            "Location" : "North Village Branch Library",
+            "Art Location Street Address" : "2505 Steck Ave.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78757,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=519 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.272315183034266, -97.77514285038444]
+         },
+         "properties": {
+            "Artist" : "Kathleen Ash",
+            "Art Title" : "Big Snake",
+            "Location" : "Austin Nature & Science Center ",
+            "Art Location Street Address" : "301 Nature Center Dr.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78746,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=128 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.36249919613249, -97.73069835569646]
+         },
+         "properties": {
+            "Artist" : "Kathleen Ash",
+            "Art Title" : "Sea of Knowledge",
+            "Location" : "North Village Branch Library",
+            "Art Location Street Address" : "2505 Steck Ave.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78757,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=520 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.269920000307934, -97.74332000011776]
+         },
+         "properties": {
+            "Artist" : "Jerolyn Bahm-Colombik",
+            "Art Title" : "La Fuente en Calle Segundo",
+            "Location" : "2nd Street District  ",
+            "Art Location Street Address" : "2nd Street & San Antonio;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX ",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=529 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.323072918367984, -97.74093264038987]
+         },
+         "properties": {
+            "Artist" : "Dayna Beard-Isensee",
+            "Art Title" : "Flights of Fancy",
+            "Location" : "Yarborough Branch",
+            "Art Location Street Address" : "2200 Hancock Dr.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78756,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=133 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.202653698644724, -97.66544354925043]
+         },
+         "properties": {
+            "Artist" : "Jill Bedgood ",
+            "Art Title" : "Reality * Texas * Mythology",
+            "Location" : "Austin-Bergstrom International Airport",
+            "Art Location Street Address" : "3600 Presidential Blvd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=137 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.26473389832728, -97.74923338272032]
+         },
+         "properties": {
+            "Artist" : "Jill Bedgood ",
+            "Art Title" : "Texas Botanicals",
+            "Location" : "Austin Convention Center",
+            "Art Location Street Address" : "500 East Cesar Chavez St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=125 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.265983955948002, -97.76862276567203]
+         },
+         "properties": {
+            "Artist" : "Jill Bedgood ",
+            "Art Title" : "Phantom Ship",
+            "Location" : "Zilker Park",
+            "Art Location Street Address" : "2201 Barton Springs Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78746,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=98 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.23392312560344, -97.78565592490696]
+         },
+         "properties": {
+            "Artist" : "Jill Bedgood ",
+            "Art Title" : "Community Quilt",
+            "Location" : "South Austin Senior Activity Center ",
+            "Art Location Street Address" : "3911 Manchaca Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78704,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=117 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25604476813926, -97.73717840179187]
+         },
+         "properties": {
+            "Artist" : "Roberto Behar ",
+            "Art Title" : "Open Room Austin",
+            "Location" : "Sand Beach Park",
+            "Art Location Street Address" : ";",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=526 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.252912715050357, -97.69302633905961]
+         },
+         "properties": {
+            "Artist" : "Nan StandishBlake",
+            "Art Title" : "Connected",
+            "Location" : "Health and Human Services Administration",
+            "Art Location Street Address" : "7201 Levander Loop;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=212 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.311966291306135, -97.69066053895199]
+         },
+         "properties": {
+            "Artist" : "Paul Bond",
+            "Art Title" : "Reading Between the Lions",
+            "Location" : "Windsor Park Branch",
+            "Art Location Street Address" : "5801 Westminster Dr.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78723,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=144 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.136680000082094, -97.67493999978103]
+         },
+         "properties": {
+            "Artist" : "Katherine Brimberry",
+            "Art Title" : "Personal Effects III",
+            "Location" : "Learning & Research Center",
+            "Art Location Street Address" : "2800  Star of Texas Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=172 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.26473389832728, -97.74923338272032]
+         },
+         "properties": {
+            "Artist" : "Rolando Briseno",
+            "Art Title" : "Macro / Micro Culture",
+            "Location" : "Austin Convention Center",
+            "Art Location Street Address" : "500 East Cesar Chavez St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=196 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.21058571894315, -97.73807279633667]
+         },
+         "properties": {
+            "Artist" : "Doug Brown",
+            "Art Title" : "The Unsung",
+            "Location" : "Todd Lane Service Center",
+            "Art Location Street Address" : "4108 Todd Lane;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=187 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.266028922049486, -97.71101219647505]
+         },
+         "properties": {
+            "Artist" : "Elizabeth Busch",
+            "Art Title" : "Aurora",
+            "Location" : "Conley-Guerrero Senior Activity Center",
+            "Art Location Street Address" : "808 Nile Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=91 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.26929346101582, -97.71621027780441]
+         },
+         "properties": {
+            "Artist" : "Laurel Butler",
+            "Art Title" : "Outdoor Studio",
+            "Location" : "Central Access Television Facility ",
+            "Art Location Street Address" : "1143 Northwestern Ave.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=95 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.323072918367984, -97.74093264038987]
+         },
+         "properties": {
+            "Artist" : "Marla Camp",
+            "Art Title" : "Flights of Fancy",
+            "Location" : "Yarborough Branch",
+            "Art Location Street Address" : "2200 Hancock Dr.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78756,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=133 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.43341073814281, -97.77254380971976]
+         },
+         "properties": {
+            "Artist" : "Heather Carter",
+            "Art Title" : "Souls of the Trees",
+            "Location" : "Spicewood Springs Branch Library",
+            "Art Location Street Address" : "8637 Spicewood Springs Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78759,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=508 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.136680000082094, -97.67493999978103]
+         },
+         "properties": {
+            "Artist" : "Belinda Casey",
+            "Art Title" : "X",
+            "Location" : "Learning & Research Center",
+            "Art Location Street Address" : "2800  Star of Texas Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=180 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.269833054233402, -97.73455644720212]
+         },
+         "properties": {
+            "Artist" : "John Christensen",
+            "Art Title" : "The Source",
+            "Location" : "Waller Creek Center",
+            "Art Location Street Address" : "625 East 10th Street;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=112 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.302361532033217, -97.63448888500193]
+         },
+         "properties": {
+            "Artist" : "John Christensen",
+            "Art Title" : "Turner-Roberts-Overton Memorial",
+            "Location" : "Turner Roberts Recreation Center",
+            "Art Location Street Address" : "7201 Colony Loop Drive;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78724,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=531 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.202653698644724, -97.66544354925043]
+         },
+         "properties": {
+            "Artist" : "John Christensen",
+            "Art Title" : "Leaf; Pod & Samara",
+            "Location" : "Austin-Bergstrom International Airport",
+            "Art Location Street Address" : "3600 Presidential Blvd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=134 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.265009999611948, -97.71688999987344]
+         },
+         "properties": {
+            "Artist" : "Ryah Christensen",
+            "Art Title" : "Door/Not Door",
+            "Location" : "East Side Hike and Bike Trail",
+            "Art Location Street Address" : ";",
+            "Art Location City" : "Austin",
+            "Art Location State" : "Texas",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=537 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.266019928829166, -97.73916996921241]
+         },
+         "properties": {
+            "Artist" : "John PatrickCobb",
+            "Art Title" : "O. Henry at Cards",
+            "Location" : "O. Henry Museum",
+            "Art Location Street Address" : "409 East Fifth St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=105 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.298845182898617, -97.69086738301871]
+         },
+         "properties": {
+            "Artist" : "Roger Colombik",
+            "Art Title" : "The Island",
+            "Location" : "Combined Emergency Communication & Transportation Management Center",
+            "Art Location Street Address" : "5010 Old Manor Rd;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78723,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=218 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.269920000307934, -97.74332000011776]
+         },
+         "properties": {
+            "Artist" : "Roger Colombik",
+            "Art Title" : "La Fuente en Calle Segundo",
+            "Location" : "2nd Street District  ",
+            "Art Location Street Address" : "2nd Street & San Antonio;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX ",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=529 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25158178209171, -97.72072545231359]
+         },
+         "properties": {
+            "Artist" : "Oscar Cortez",
+            "Art Title" : "For La Raza",
+            "Location" : "Holly Street Power Plant",
+            "Art Location Street Address" : "2400 Holly St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=104 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.136680000082094, -97.67493999978103]
+         },
+         "properties": {
+            "Artist" : "Margie Crisp",
+            "Art Title" : "Swallow Suite",
+            "Location" : "Learning & Research Center",
+            "Art Location Street Address" : "2800  Star of Texas Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=173 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25604476813926, -97.73717840179187]
+         },
+         "properties": {
+            "Artist" : "Bill Davenport",
+            "Art Title" : "Giant Mushroom Forest",
+            "Location" : "Auditorium Shores",
+            "Art Location Street Address" : ";",
+            "Art Location City" : "Austin",
+            "Art Location State" : "Texas",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=538 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25799797632783, -97.73958365734592]
+         },
+         "properties": {
+            "Artist" : "Sasha Dela",
+            "Art Title" : "Variegated Continuum",
+            "Location" : "Mexican American Cultural Center",
+            "Art Location Street Address" : "600 River Street;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=543 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.269754194880353, -97.72441430407154]
+         },
+         "properties": {
+            "Artist" : "Eddie Dixon",
+            "Art Title" : "Go Forth",
+            "Location" : "Carver Museum",
+            "Art Location Street Address" : "1163 Angelina St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX ",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=507 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25158178209171, -97.72072545231359]
+         },
+         "properties": {
+            "Artist" : "Fidencio Duran",
+            "Art Title" : "La Quinceanera - 15th Birthday",
+            "Location" : "Holly Street Power Plant",
+            "Art Location Street Address" : "2400 Holly St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=102 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.261388420378296, -97.71211836257112]
+         },
+         "properties": {
+            "Artist" : "Fidencio Duran",
+            "Art Title" : "Comite Patriota; Cinco de Mayo and Diez y Seis",
+            "Location" : "Parque Zaragoza Recreation Center",
+            "Art Location Street Address" : "2608 Gonzales St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=119 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.202653698644724, -97.66544354925043]
+         },
+         "properties": {
+            "Artist" : "Fidencio Duran",
+            "Art Title" : "The Visit",
+            "Location" : "Austin-Bergstrom International Airport",
+            "Art Location Street Address" : "3600 Presidential Blvd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=136 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.266028922049486, -97.71101219647505]
+         },
+         "properties": {
+            "Artist" : "Garth Edwards",
+            "Art Title" : "Untitled",
+            "Location" : "Conley-Guerrero Senior Activity Center",
+            "Art Location Street Address" : "808 Nile Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=92 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.272315183034266, -97.77514285038444]
+         },
+         "properties": {
+            "Artist" : "Elena Eidelberg",
+            "Art Title" : "Big Snake",
+            "Location" : "Austin Nature & Science Center ",
+            "Art Location Street Address" : "301 Nature Center Dr.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78746,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=128 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.187860944732922, -97.74223740897932]
+         },
+         "properties": {
+            "Artist" : "Elementary School Children From Dove Springs Area",
+            "Art Title" : "Untitled",
+            "Location" : "Southeast Austin Community Branch",
+            "Art Location Street Address" : "5803 Nuckols Crossing;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78744,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=129 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.187670993636573, -97.739493725143]
+         },
+         "properties": {
+            "Artist" : "Courtney Enriquez ",
+            "Art Title" : "A Dream",
+            "Location" : "Dove Springs Recreation Center",
+            "Art Location Street Address" : "5801 Ainez Dr.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78744,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=130 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.202653698644724, -97.66544354925043]
+         },
+         "properties": {
+            "Artist" : "Thomas Evans",
+            "Art Title" : "Hill of the Medicine Man",
+            "Location" : "Austin-Bergstrom International Airport",
+            "Art Location Street Address" : "3600 Presidential Blvd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=135 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.219201223983816, -97.8552544567545]
+         },
+         "properties": {
+            "Artist" : "David Everett",
+            "Art Title" : "Oak Hill Triptych",
+            "Location" : "Hampton Branch at Oak Hill",
+            "Art Location Street Address" : "5125 Convict Hill Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78749,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=126 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.136680000082094, -97.67493999978103]
+         },
+         "properties": {
+            "Artist" : "Kelly Fearing",
+            "Art Title" : "Collector Revisited",
+            "Location" : "Learning & Research Center",
+            "Art Location Street Address" : "2800  Star of Texas Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=181 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.202653698644724, -97.66544354925043]
+         },
+         "properties": {
+            "Artist" : "Sandra Fiedorek",
+            "Art Title" : "to Parts Unknown",
+            "Location" : "Austin-Bergstrom International Airport",
+            "Art Location Street Address" : "3600 Presidential Blvd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=140 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.2134455629963, -97.7362741522781]
+         },
+         "properties": {
+            "Artist" : "Sandra Fiedorek",
+            "Art Title" : "Doctor Pangloss",
+            "Location" : "Household Hazardous Waste Collection Facility",
+            "Art Location Street Address" : "3810 Todd Lane;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=185 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.298125725275213, -97.76735472161073]
+         },
+         "properties": {
+            "Artist" : "Sandra Fiedorek",
+            "Art Title" : "-56\"- (Fifty-Six Inches)",
+            "Location" : "Howson Branch",
+            "Art Location Street Address" : "2500 Exposition Blvd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78703,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=122 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.269949966097215, -97.72449303369427]
+         },
+         "properties": {
+            "Artist" : "John Fisher",
+            "Art Title" : "Sesquicentennial Mural",
+            "Location" : "Carver Branch",
+            "Art Location Street Address" : "1161 Angelina St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=183 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.269833054233402, -97.73455644720212]
+         },
+         "properties": {
+            "Artist" : "Malou Flato",
+            "Art Title" : "Untitled",
+            "Location" : "Waller Creek Center",
+            "Art Location Street Address" : "625 East 10th Street;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=108 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.267600000339883, -97.74297999972708]
+         },
+         "properties": {
+            "Artist" : "Virginia Fleck",
+            "Art Title" : "Lamina Groove",
+            "Location" : "Deep Eddy EMS Station #17",
+            "Art Location Street Address" : "Veterans Drive;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=195 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.252912715050357, -97.69302633905961]
+         },
+         "properties": {
+            "Artist" : "Matthew Fuller",
+            "Art Title" : "Beach Dogs",
+            "Location" : "Health and Human Services Administration",
+            "Art Location Street Address" : "7201 Levander Loop;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=224 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.27515704064689, -97.73329739636114]
+         },
+         "properties": {
+            "Artist" : "Wanda Gamble",
+            "Art Title" : "Hidden Canyon",
+            "Location" : "Texas Cancer Center at Brackenridge Hospital",
+            "Art Location Street Address" : "601 E 15th St.; 9th Floor",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=164 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.311597569274113, -97.6382390578641]
+         },
+         "properties": {
+            "Artist" : "Martha Gannon",
+            "Art Title" : "Deuce Gates",
+            "Location" : "Austin Tennis Center",
+            "Art Location Street Address" : "7800 Johnny Morris Road;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78724,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=533 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.260024534650952, -97.73317439552804]
+         },
+         "properties": {
+            "Artist" : "Laura Garanzuay",
+            "Art Title" : "Rayo de Esperanza - A Beacon of Hope: Sculpture; Community Kiosk; Benches",
+            "Location" : "Terrazas Branch Library",
+            "Art Location Street Address" : "1105 E. Cesar Chavez Street;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=513 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.257854084803114, -97.72073386761178]
+         },
+         "properties": {
+            "Artist" : "Martin Garcia",
+            "Art Title" : "Las Acciones del Pasado Aseguran el Exito Hacia el Futuro (The Actions of the Past Ensure Success for the Future)",
+            "Location" : "A.B. Cantu / Pan Am Recreation Center",
+            "Art Location Street Address" : "2100 E. 3rd St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=222 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.41594458828731, -97.69589651948735]
+         },
+         "properties": {
+            "Artist" : "Jake Gilson",
+            "Art Title" : "Untitled",
+            "Location" : "North Austin Police Substation",
+            "Art Location Street Address" : "12400 Lamplight Village Ave.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78727,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=114 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.174289081840584, -97.79204111131497]
+         },
+         "properties": {
+            "Artist" : "Linnea Glatt",
+            "Art Title" : "Reflect",
+            "Location" : "South Austin Police/Fire/EMS Station",
+            "Art Location Street Address" : "400 Ralph Ablanedo Drive;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=193 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.269920000307934, -97.74332000011776]
+         },
+         "properties": {
+            "Artist" : "Hawkeye Glenn",
+            "Art Title" : "formation; language; memory",
+            "Location" : "Susanna Dickinson House",
+            "Art Location Street Address" : "Brush Square Park; 409 East Fifth Street",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=534 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.231944617138993, -97.69905121348535]
+         },
+         "properties": {
+            "Artist" : "Ambray Gonzales",
+            "Art Title" : "Reach for your Dreams",
+            "Location" : "Montopolis Youth Sports Complex",
+            "Art Location Street Address" : "1200 Montopolis Drive;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=189 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.26471932275173, -97.7650138477224]
+         },
+         "properties": {
+            "Artist" : "Glenna Goodacre",
+            "Art Title" : "Philosophers Rock",
+            "Location" : "Zilker Park (Barton Springs Pool)",
+            "Art Location Street Address" : "2201 Barton Springs Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78704,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=203 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.136680000082094, -97.67493999978103]
+         },
+         "properties": {
+            "Artist" : "Nell Gould",
+            "Art Title" : "Q (not a quince)",
+            "Location" : "Learning & Research Center",
+            "Art Location Street Address" : "2800  Star of Texas Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=174 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.265009999611948, -97.71688999987344]
+         },
+         "properties": {
+            "Artist" : "Buster Graybill",
+            "Art Title" : "Bait Box",
+            "Location" : "East Side Hike and Bike Trail",
+            "Art Location Street Address" : ";",
+            "Art Location City" : "Austin",
+            "Art Location State" : "Texas",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=539 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.299249877811803, -97.73244304043328]
+         },
+         "properties": {
+            "Artist" : "Berthold Haas",
+            "Art Title" : "Grotto Wall at Sparky Park",
+            "Location" : "Sparky Park",
+            "Art Location Street Address" : "3701 Grooms Street;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78705,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=511 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.243309999856763, -97.76507999994192]
+         },
+         "properties": {
+            "Artist" : "Ralph Helmick",
+            "Art Title" : "Stevie Ray Vaughan Memorial",
+            "Location" : "Town Lake Hike and Bike Trail",
+            "Art Location Street Address" : "South Bank at South 1st &  Riverside Drive;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78704,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=202 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.26929346101582, -97.71621027780441]
+         },
+         "properties": {
+            "Artist" : "T. Paul Hernandez",
+            "Art Title" : "Snake Culvert",
+            "Location" : "Central Access Television Facility ",
+            "Art Location Street Address" : "1143 Northwestern Ave.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=96 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.269920000307934, -97.74332000011776]
+         },
+         "properties": {
+            "Artist" : "T. Paul Hernandez",
+            "Art Title" : "Opossum Temple and Voodoo Pew",
+            "Location" : "Town Lake Hike and Bike Trail",
+            "Art Location Street Address" : "Possum Point - North Bank at Shoal Creek;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=107 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.377320023175344, -97.74903553187386]
+         },
+         "properties": {
+            "Artist" : "T. Paul Hernandez",
+            "Art Title" : "Sanctuary of the Tribal Alligator",
+            "Location" : "Hill Elementary School Park",
+            "Art Location Street Address" : "8601 Tallwood Dr.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78759,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=94 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.26623576611621, -97.76896450804315]
+         },
+         "properties": {
+            "Artist" : "Louis Herrera",
+            "Art Title" : "Zilker Gardens Main Entry Gate",
+            "Location" : "Zilker Botanical Garden",
+            "Art Location Street Address" : "2220 Barton Springs Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78746,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=116 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25158178209171, -97.72072545231359]
+         },
+         "properties": {
+            "Artist" : "Robert Herrera",
+            "Art Title" : "For La Raza",
+            "Location" : "Holly Street Power Plant",
+            "Art Location Street Address" : "2400 Holly St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=104 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.298125725275213, -97.76735472161073]
+         },
+         "properties": {
+            "Artist" : "David Heymann",
+            "Art Title" : "-56\"- (Fifty-Six Inches)",
+            "Location" : "Howson Branch",
+            "Art Location Street Address" : "2500 Exposition Blvd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78703,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=122 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.2134455629963, -97.7362741522781]
+         },
+         "properties": {
+            "Artist" : "David Heymann",
+            "Art Title" : "Doctor Pangloss",
+            "Location" : "Household Hazardous Waste Collection Facility",
+            "Art Location Street Address" : "3810 Todd Lane;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=185 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25799797632783, -97.73958365734592]
+         },
+         "properties": {
+            "Artist" : "Benito Huerta",
+            "Art Title" : "Snake Path",
+            "Location" : "Mexican American Cultural Center",
+            "Art Location Street Address" : "600 River Street;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=509 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.136680000082094, -97.67493999978103]
+         },
+         "properties": {
+            "Artist" : "Leticia Huerta",
+            "Art Title" : "Padre Nuestro",
+            "Location" : "Learning & Research Center",
+            "Art Location Street Address" : "2800  Star of Texas Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=182 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.187670993636573, -97.739493725143]
+         },
+         "properties": {
+            "Artist" : "Barbara Jackson - Poe ",
+            "Art Title" : "Unity: The Tree of Life",
+            "Location" : "Dove Springs Recreation Center",
+            "Art Location Street Address" : "5801 Ainez Dr.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78744,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=131 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.202653698644724, -97.66544354925043]
+         },
+         "properties": {
+            "Artist" : "Jimmy Jalapeeno",
+            "Art Title" : "Green Austin Series",
+            "Location" : "Austin-Bergstrom International Airport",
+            "Art Location Street Address" : "3600 Presidential Blvd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=184 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.262762792232973, -97.74207698152165]
+         },
+         "properties": {
+            "Artist" : "Jimmy Jalapeeno",
+            "Art Title" : "Tree on Barton Creek",
+            "Location" : "Austin City Hall & Public Plaza",
+            "Art Location Street Address" : "300 Cesar Chavez Street;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=169 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.262762792232973, -97.74207698152165]
+         },
+         "properties": {
+            "Artist" : "James Janknegt ",
+            "Art Title" : "Our Neighborhood",
+            "Location" : "Austin City Hall & Public Plaza",
+            "Art Location Street Address" : "300 Cesar Chavez Street;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=168 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.270228755926325, -97.74312698614136]
+         },
+         "properties": {
+            "Artist" : "Douglas Jaques",
+            "Art Title" : "Vision",
+            "Location" : "City Municipal Building",
+            "Art Location Street Address" : "124 West Eighth St.; 3rd Floor;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=170 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.202653698644724, -97.66544354925043]
+         },
+         "properties": {
+            "Artist" : "Judy Jensen",
+            "Art Title" : "Voyages",
+            "Location" : "Austin-Bergstrom International Airport",
+            "Art Location Street Address" : "3600 Presidential Blvd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=139 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.31908674332275, -97.95144847277496]
+         },
+         "properties": {
+            "Artist" : "Jules BuckJones",
+            "Art Title" : "Golden-Cheeked Warbler",
+            "Location" : "Wildlife Conservation Division at Reicher Ranch",
+            "Art Location Street Address" : "3635 RR 620 South;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78738,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=521 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.31908674332275, -97.95144847277496]
+         },
+         "properties": {
+            "Artist" : "Jules BuckJones",
+            "Art Title" : "Jolly-Ville Plateau Salamander",
+            "Location" : "Wildlife Conservation Division at Reicher Ranch",
+            "Art Location Street Address" : "3635 RR 620 South;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78738,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=522 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.202653698644724, -97.66544354925043]
+         },
+         "properties": {
+            "Artist" : "Young-Min Kang",
+            "Art Title" : "Austin Downtown Cruiser (Day)",
+            "Location" : "Austin-Bergstrom International Airport",
+            "Art Location Street Address" : "3600 Presidential Blvd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=535 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.202653698644724, -97.66544354925043]
+         },
+         "properties": {
+            "Artist" : "Young-Min Kang",
+            "Art Title" : "Austin Downtown Cruiser (Night)",
+            "Location" : "Austin-Bergstrom International Airport",
+            "Art Location Street Address" : "3600 Presidential Blvd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=536 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.136680000082094, -97.67493999978103]
+         },
+         "properties": {
+            "Artist" : "Gabel Karsten",
+            "Art Title" : "One by One",
+            "Location" : "Learning & Research Center",
+            "Art Location Street Address" : "2800  Star of Texas Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=175 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.252912715050357, -97.69302633905961]
+         },
+         "properties": {
+            "Artist" : "Misty Keasler",
+            "Art Title" : "Kids in the Mirror; Orphanage at Svir Stroi. Svir Stroi; Russia",
+            "Location" : "Health and Human Services Administration",
+            "Art Location Street Address" : "7201 Levander Loop;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=208 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.187410190248045, -97.74255142004262]
+         },
+         "properties": {
+            "Artist" : "Philippe Klinefelter",
+            "Art Title" : "Medicinal Plant Wall",
+            "Location" : "Far Southeast EMS Station",
+            "Art Location Street Address" : "5811 Nuckols Crossing Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78744,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=220 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.23026288494424, -97.70639867446477]
+         },
+         "properties": {
+            "Artist" : "Will Larson",
+            "Art Title" : "Discovery",
+            "Location" : "Daniel E. Ruiz Branch Library",
+            "Art Location Street Address" : "1600 Grove Blvd;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78704,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=217 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.249751193319128, -97.72356673200409]
+         },
+         "properties": {
+            "Artist" : "Will Larson",
+            "Art Title" : "! Mira !",
+            "Location" : "Lorraine \"Grandma\" Camacho Center",
+            "Art Location Street Address" : "34 Robert T. Martinez Jr. St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=186 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25887931191653, -97.69989657619288]
+         },
+         "properties": {
+            "Artist" : "Andrea Legge",
+            "Art Title" : "Elevated Prairie",
+            "Location" : "Central/East Austin Police/Forensics Lab",
+            "Art Location Street Address" : "812 Springdale Road;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=221 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25887931191653, -97.69989657619288]
+         },
+         "properties": {
+            "Artist" : "R. Murray Legge",
+            "Art Title" : "Elevated Prairie",
+            "Location" : "Central/East Austin Police/Forensics Lab",
+            "Art Location Street Address" : "812 Springdale Road;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=221 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.136680000082094, -97.67493999978103]
+         },
+         "properties": {
+            "Artist" : "Robert Levers",
+            "Art Title" : "Four Terrorists Trapped in a Bullring",
+            "Location" : "Learning & Research Center",
+            "Art Location Street Address" : "2800  Star of Texas Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=176 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25887931191653, -97.69989657619288]
+         },
+         "properties": {
+            "Artist" : "Deborah EveLewis",
+            "Art Title" : "Elevated Prairie",
+            "Location" : "Central/East Austin Police/Forensics Lab",
+            "Art Location Street Address" : "812 Springdale Road;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=221 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25604476813926, -97.73717840179187]
+         },
+         "properties": {
+            "Artist" : "Ken Little",
+            "Art Title" : "Homeland Security",
+            "Location" : "Butler Park",
+            "Art Location Street Address" : ";",
+            "Art Location City" : "Austin",
+            "Art Location State" : "Texas",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=542 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.26473389832728, -97.74923338272032]
+         },
+         "properties": {
+            "Artist" : "Ben M.Livingston",
+            "Art Title" : "Confabulating Orbits",
+            "Location" : "Austin Convention Center",
+            "Art Location Street Address" : "500 East Cesar Chavez St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=120 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.252912715050357, -97.69302633905961]
+         },
+         "properties": {
+            "Artist" : "Jimmy Luu",
+            "Art Title" : "Letterscape",
+            "Location" : "Health and Human Services Campus",
+            "Art Location Street Address" : "7201 Levander Loop;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=517 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.32465702044624, -97.68935170918957]
+         },
+         "properties": {
+            "Artist" : "Peter Mangan",
+            "Art Title" : "Sky Gates",
+            "Location" : "EMS Station # 14",
+            "Art Location Street Address" : "7200 Berkman Drive;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=190 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25604476813926, -97.73717840179187]
+         },
+         "properties": {
+            "Artist" : "Rosario  Marquardt",
+            "Art Title" : "Open Room Austin",
+            "Location" : "Sand Beach Park",
+            "Art Location Street Address" : ";",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=526 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.187860944732922, -97.74223740897932]
+         },
+         "properties": {
+            "Artist" : "Phil Martin",
+            "Art Title" : "Untitled",
+            "Location" : "Southeast Austin Community Branch",
+            "Art Location Street Address" : "5803 Nuckols Crossing;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78744,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=129 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25158178209171, -97.72072545231359]
+         },
+         "properties": {
+            "Artist" : "Alfredo Martinez",
+            "Art Title" : "The Children are the Future",
+            "Location" : "Holly Street Power Plant",
+            "Art Location Street Address" : "2400 Holly St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=99 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25158178209171, -97.72072545231359]
+         },
+         "properties": {
+            "Artist" : "Armando Martinez",
+            "Art Title" : "Signs of the Times",
+            "Location" : "Holly Street Power Plant",
+            "Art Location Street Address" : "2400 Holly St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=100 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25158178209171, -97.72072545231359]
+         },
+         "properties": {
+            "Artist" : "Armando Martinez",
+            "Art Title" : "Me Barrio",
+            "Location" : "Holly Street Power Plant",
+            "Art Location Street Address" : "2400 Holly St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=101 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.269920000307934, -97.74332000011776]
+         },
+         "properties": {
+            "Artist" : "Lizzie Martinez",
+            "Art Title" : "formation; language; memory",
+            "Location" : "Susanna Dickinson House",
+            "Art Location Street Address" : "Brush Square Park; 409 East Fifth Street",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=534 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.269949966097215, -97.72449303369427]
+         },
+         "properties": {
+            "Artist" : "Freddie McCoo",
+            "Art Title" : "A River Runs Thru Us",
+            "Location" : "Carver Branch",
+            "Art Location Street Address" : "1161 Angelina St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=300 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25604476813926, -97.73717840179187]
+         },
+         "properties": {
+            "Artist" : "Colin McIntyre",
+            "Art Title" : "Emergence",
+            "Location" : "Butler Park",
+            "Art Location Street Address" : ";",
+            "Art Location City" : "Austin",
+            "Art Location State" : "Texas",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=540 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.272315183034266, -97.77514285038444]
+         },
+         "properties": {
+            "Artist" : "Colin McIntyre",
+            "Art Title" : "Arboreal Passage",
+            "Location" : "Austin Nature & Science Center ",
+            "Art Location Street Address" : "301 Nature Center Dr.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78746,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=545 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.269920000307934, -97.74332000011776]
+         },
+         "properties": {
+            "Artist" : "Deborah Mersky",
+            "Art Title" : "High Water Mark",
+            "Location" : "Cesar Chavez Streetscape",
+            "Art Location Street Address" : "Cesar Chavez; East and West of S. First Street;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=532 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25158178209171, -97.72072545231359]
+         },
+         "properties": {
+            "Artist" : "Metz Recreation Center Students",
+            "Art Title" : "Me Barrio",
+            "Location" : "Holly Street Power Plant",
+            "Art Location Street Address" : "2400 Holly St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=101 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.262762792232973, -97.74207698152165]
+         },
+         "properties": {
+            "Artist" : "Nobuho Nagasawa",
+            "Art Title" : "Seeding Time",
+            "Location" : "Austin City Hall & Public Plaza",
+            "Art Location Street Address" : "300 Cesar Chavez Street;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=500 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.272549006761892, -97.70953730834702]
+         },
+         "properties": {
+            "Artist" : "David Newton",
+            "Art Title" : "Spirit of Hope",
+            "Location" : "Millennium Youth Entertainment Complex",
+            "Art Location Street Address" : "1156 Hargrave St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=143 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.423104507687015, -97.71459149815166]
+         },
+         "properties": {
+            "Artist" : "Lori Norwood",
+            "Art Title" : "Learning to Fly",
+            "Location" : "Milwood Branch",
+            "Art Location Street Address" : "12500 Amherst Dr.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78727,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=127 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.267600000339883, -97.74297999972708]
+         },
+         "properties": {
+            "Artist" : "Pat Oliphant",
+            "Art Title" : "Angelina Eberly",
+            "Location" : "Congress and 6th Street",
+            "Art Location Street Address" : "West side between 6th and 7th Street;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=301 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.252912715050357, -97.69302633905961]
+         },
+         "properties": {
+            "Artist" : "Andrew Ortiz",
+            "Art Title" : "Worker",
+            "Location" : "Health and Human Services Administration",
+            "Art Location Street Address" : "7201 Levander Loop;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=209 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.249859111962678, -97.72488873538714]
+         },
+         "properties": {
+            "Artist" : "Jill Pangallo",
+            "Art Title" : "Let Me Entertain You",
+            "Location" : "Fiesta Gardens Courtyard",
+            "Art Location Street Address" : "2101 Jesse E. Segovia Street;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=541 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.266028922049486, -97.71101219647505]
+         },
+         "properties": {
+            "Artist" : "Jorge Pardo",
+            "Art Title" : "The Courtyard",
+            "Location" : "Conley-Guerrero Senior Activity Center",
+            "Art Location Street Address" : "808 Nile Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=93 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.267600000339883, -97.74297999972708]
+         },
+         "properties": {
+            "Artist" : "Beverly Penn",
+            "Art Title" : "Community Core Sample Project",
+            "Location" : "St. John's Multipurpose Center",
+            "Art Location Street Address" : "Corner of Blessing and Wheatly Ave.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=192 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.267600000339883, -97.74297999972708]
+         },
+         "properties": {
+            "Artist" : "Beverly Penn",
+            "Art Title" : "Threshold Project",
+            "Location" : "St. John's Multipurpose Center",
+            "Art Location Street Address" : "Corner of Blessing and Wheatly Ave.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=198 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25158178209171, -97.72072545231359]
+         },
+         "properties": {
+            "Artist" : "Joe Perez",
+            "Art Title" : "Big Arch",
+            "Location" : "Holly Street Power Plant",
+            "Art Location Street Address" : "2400 Holly St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=103 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.243309999856763, -97.76507999994192]
+         },
+         "properties": {
+            "Artist" : "Joe Perez",
+            "Art Title" : "Lou Neff Point Gazebo",
+            "Location" : "Town Lake Hike and Bike Trail",
+            "Art Location Street Address" : "South Bank at Barton Creek;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78704,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=106 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.269920000307934, -97.74332000011776]
+         },
+         "properties": {
+            "Artist" : "Robert Phillips",
+            "Art Title" : "Opossum Temple and Voodoo Pew",
+            "Location" : "Town Lake Hike and Bike Trail",
+            "Art Location Street Address" : "Possum Point - North Bank at Shoal Creek;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=107 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25158178209171, -97.72072545231359]
+         },
+         "properties": {
+            "Artist" : "Arlene Polite",
+            "Art Title" : "Untitled",
+            "Location" : "Holly Street Power Plant",
+            "Art Location Street Address" : "2400 Holly St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=200 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25158178209171, -97.72072545231359]
+         },
+         "properties": {
+            "Artist" : "Arlene Polite",
+            "Art Title" : "Untitled",
+            "Location" : "Holly Street Power Plant",
+            "Art Location Street Address" : "2400 Holly St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=200 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.136680000082094, -97.67493999978103]
+         },
+         "properties": {
+            "Artist" : "Arlene Polite",
+            "Art Title" : "Play",
+            "Location" : "Learning & Research Center",
+            "Art Location Street Address" : "2800  Star of Texas Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=178 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.136680000082094, -97.67493999978103]
+         },
+         "properties": {
+            "Artist" : "Arlene Polite",
+            "Art Title" : "Printing",
+            "Location" : "Learning & Research Center",
+            "Art Location Street Address" : "2800  Star of Texas Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=177 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.26473389832728, -97.74923338272032]
+         },
+         "properties": {
+            "Artist" : "Damian Priour",
+            "Art Title" : "The Waller Creek Shelves",
+            "Location" : "Austin Convention Center",
+            "Art Location Street Address" : "500 East Cesar Chavez St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=118 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.27848453215529, -97.68429333898456]
+         },
+         "properties": {
+            "Artist" : "Pio Pulido",
+            "Art Title" : "Dove and the Leaves of Healing",
+            "Location" : "EMS Station #4",
+            "Art Location Street Address" : "1201 Webberville Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78721,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=123 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.187860944732922, -97.74223740897932]
+         },
+         "properties": {
+            "Artist" : "Claudia Reese",
+            "Art Title" : "Untitled",
+            "Location" : "Southeast Austin Community Branch",
+            "Art Location Street Address" : "5803 Nuckols Crossing;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78744,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=129 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25158178209171, -97.72072545231359]
+         },
+         "properties": {
+            "Artist" : "Steven Rendon",
+            "Art Title" : "Signs of the Times",
+            "Location" : "Holly Street Power Plant",
+            "Art Location Street Address" : "2400 Holly St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=100 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.27515704064689, -97.73329739636114]
+         },
+         "properties": {
+            "Artist" : "Priscilla Robinson",
+            "Art Title" : "Italianos 1; Italianos 2; Italianos 3; Indian Land1; On the Way & Pueblo Trees",
+            "Location" : "Texas Cancer Center at Brackenridge Hospital",
+            "Art Location Street Address" : "601 E 15th St.; 9th Floor",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=166 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25158178209171, -97.72072545231359]
+         },
+         "properties": {
+            "Artist" : "David Santos",
+            "Art Title" : "Big Arch",
+            "Location" : "Holly Street Power Plant",
+            "Art Location Street Address" : "2400 Holly St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=103 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.243309999856763, -97.76507999994192]
+         },
+         "properties": {
+            "Artist" : "David Santos",
+            "Art Title" : "Lou Neff Point Gazebo",
+            "Location" : "Town Lake Hike and Bike Trail",
+            "Art Location Street Address" : "South Bank at Barton Creek;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78704,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=106 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.26473389832728, -97.74923338272032]
+         },
+         "properties": {
+            "Artist" : "Margo Sawyer",
+            "Art Title" : "Index for Contemplation",
+            "Location" : "Austin Convention Center",
+            "Art Location Street Address" : "500 East Cesar Chavez St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=194 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.262762792232973, -97.74207698152165]
+         },
+         "properties": {
+            "Artist" : "Jack L.Schuller",
+            "Art Title" : "Crumley's Market",
+            "Location" : "Austin City Hall & Public Plaza",
+            "Art Location Street Address" : "300 Cesar Chavez Street;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=167 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.136680000082094, -97.67493999978103]
+         },
+         "properties": {
+            "Artist" : "David Serrano",
+            "Art Title" : "La Pinata",
+            "Location" : "Learning & Research Center",
+            "Art Location Street Address" : "2800  Star of Texas Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=179 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.252912715050357, -97.69302633905961]
+         },
+         "properties": {
+            "Artist" : "Victoria Smith",
+            "Art Title" : "Lady Bird Johnson Wildflower Spring #1",
+            "Location" : "Health and Human Services Administration",
+            "Art Location Street Address" : "7201 Levander Loop;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=205 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.213201169987954, -97.87639848873056]
+         },
+         "properties": {
+            "Artist" : "W. Gary Smith",
+            "Art Title" : "Karst Circle",
+            "Location" : "Circle C Fire/EMS Station",
+            "Art Location Street Address" : "11401 Escarpment Blvd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78749,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=502 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.252912715050357, -97.69302633905961]
+         },
+         "properties": {
+            "Artist" : "Terese M.St. Arnauld",
+            "Art Title" : "The Cyclist",
+            "Location" : "Health and Human Services Administration",
+            "Art Location Street Address" : "7201 Levander Loop;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=216 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.269920000307934, -97.74332000011776]
+         },
+         "properties": {
+            "Artist" : "Lars A.Stanley",
+            "Art Title" : "Opossum Temple and Voodoo Pew",
+            "Location" : "Town Lake Hike and Bike Trail",
+            "Art Location Street Address" : "Possum Point - North Bank at Shoal Creek;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=107 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.3545893809695, -97.68204705614235]
+         },
+         "properties": {
+            "Artist" : "Lars A.Stanley",
+            "Art Title" : "Tribute to Gus Garcia",
+            "Location" : "Gus Garcia Recreation Center",
+            "Art Location Street Address" : "1106 E. Rundberg Ln.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78753,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=518 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.22482048732353, -97.77045994311088]
+         },
+         "properties": {
+            "Artist" : "Lars A.Stanley",
+            "Art Title" : "Fire in the Heart",
+            "Location" : "Firestation #17 ",
+            "Art Location Street Address" : "4123 South First St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78745,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=97 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.26623576611621, -97.76896450804315]
+         },
+         "properties": {
+            "Artist" : "Lars A.Stanley",
+            "Art Title" : "Zilker Gardens Main Entry Gate",
+            "Location" : "Zilker Botanical Garden",
+            "Art Location Street Address" : "2220 Barton Springs Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78746,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=116 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.26929346101582, -97.71621027780441]
+         },
+         "properties": {
+            "Artist" : "Rita Starpattern",
+            "Art Title" : "Outdoor Studio",
+            "Location" : "Central Access Television Facility ",
+            "Art Location Street Address" : "1143 Northwestern Ave.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=95 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.202653698644724, -97.66544354925043]
+         },
+         "properties": {
+            "Artist" : "James Talbot",
+            "Art Title" : "Transition",
+            "Location" : "Austin-Bergstrom International Airport",
+            "Art Location Street Address" : "3600 Presidential Blvd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=505 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.262683444100503, -97.75797479284512]
+         },
+         "properties": {
+            "Artist" : "Carl Trominski",
+            "Art Title" : "Moments",
+            "Location" : "Lamar Bridge Railroad Underpass",
+            "Art Location Street Address" : "300 N. Lamar Blvd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78704,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=219 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.27515704064689, -97.73329739636114]
+         },
+         "properties": {
+            "Artist" : "Phillip Wade",
+            "Art Title" : "Schnauzer at the Door",
+            "Location" : "Texas Cancer Center at Brackenridge Hospital",
+            "Art Location Street Address" : "601 E 15th St.; 9th Floor",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=165 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.258690454290388, -97.74633756578595]
+         },
+         "properties": {
+            "Artist" : "Dale Whistler",
+            "Art Title" : "Night Wings",
+            "Location" : "Congress-Barton Springs Traffic Island",
+            "Art Location Street Address" : "300 South Congress Avenue;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78704,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=204 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.267953471192186, -97.75831653521624]
+         },
+         "properties": {
+            "Artist" : "Dale Whistler",
+            "Art Title" : "Playmates",
+            "Location" : "Town Lake Animal Center",
+            "Art Location Street Address" : "1156 W. Cesar Chavez St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78703,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=138 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.21486649180258, -97.863312382137]
+         },
+         "properties": {
+            "Artist" : "Dale Whistler",
+            "Art Title" : "Untitled",
+            "Location" : "Dick Nichols Pool & Bathhouse",
+            "Art Location Street Address" : "8011 Beckett Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78749,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=124 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.21486649180258, -97.863312382137]
+         },
+         "properties": {
+            "Artist" : "Dale Whistler",
+            "Art Title" : "Untitled",
+            "Location" : "Dick Nichols Park",
+            "Art Location Street Address" : "8011 Beckett Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78749,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=111 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.188192600413572, -97.73253297263619]
+         },
+         "properties": {
+            "Artist" : "Pat Wilie",
+            "Art Title" : "On the Green",
+            "Location" : "Roy Kizer Golf Course",
+            "Art Location Street Address" : "5400 Jimmy Clay Dr.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78744,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=141 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.23392312560344, -97.78565592490696]
+         },
+         "properties": {
+            "Artist" : "Steve Wiman",
+            "Art Title" : "Community Quilt",
+            "Location" : "South Austin Senior Activity Center ",
+            "Art Location Street Address" : "3911 Manchaca Rd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78704,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=117 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.267600000339883, -97.74297999972708]
+         },
+         "properties": {
+            "Artist" : "Steve Wiman",
+            "Art Title" : "Community Core Sample Project",
+            "Location" : "St. John's Multipurpose Center",
+            "Art Location Street Address" : "Corner of Blessing and Wheatly Ave.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=192 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.267600000339883, -97.74297999972708]
+         },
+         "properties": {
+            "Artist" : "Steve Wiman",
+            "Art Title" : "Threshold Project",
+            "Location" : "St. John's Multipurpose Center",
+            "Art Location Street Address" : "Corner of Blessing and Wheatly Ave.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=198 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.202653698644724, -97.66544354925043]
+         },
+         "properties": {
+            "Artist" : "Bruce Wolfe",
+            "Art Title" : "Barbara Jordan Memorial",
+            "Location" : "Austin-Bergstrom International Airport",
+            "Art Location Street Address" : "3600 Presidential Blvd.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78719,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=503 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.252912715050357, -97.69302633905961]
+         },
+         "properties": {
+            "Artist" : "Shelley Wood",
+            "Art Title" : "Shoestring",
+            "Location" : "Health and Human Services Administration",
+            "Art Location Street Address" : "7201 Levander Loop;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78702,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=215 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.26473389832728, -97.74923338272032]
+         },
+         "properties": {
+            "Artist" : "John Yancey",
+            "Art Title" : "Riffs and Rhythms",
+            "Location" : "Austin Convention Center",
+            "Art Location Street Address" : "500 East Cesar Chavez St.;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=121 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.269920000307934, -97.74332000011776]
+         },
+         "properties": {
+            "Artist" : "Rodolfo Ybarra",
+            "Art Title" : "Lone Star Gazebo",
+            "Location" : "Town Lake Hike and Bike Trail",
+            "Art Location Street Address" : "North Bank near Buford Fire Tower;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : 78701,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=115 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.25976064750523, -97.753981803035]
+         },
+         "properties": {
+            "Artist" : "ARCHAIC ",
+            "Art Title" : "For Jeep With Love",
+            "Location" : "Palmer Event Center",
+            "Art Location Street Address" : "900 Barton Springs Road;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=188 ",
+         }
+},
+{ 
+         "type": "Feature",
+         "geometry": {
+            "type": "Point",
+            "coordinates": [30.267600000339883, -97.74297999972708]
+         },
+         "properties": {
+            "Artist" : "NextProject ",
+            "Art Title" : "LAB",
+            "Location" : "Lance Armstrong Bikeway",
+            "Art Location Street Address" : "Veterans Drive to Shady Lane;",
+            "Art Location City" : "Austin",
+            "Art Location State" : "TX",
+            "Art Location Zip" : null,
+            "Website" : "http://www.austintexas.gov/aipp/aipp_detail.cfm?art=544 ",
+         }
+}]
+}
