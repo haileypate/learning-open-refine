@@ -4,7 +4,7 @@
          "type": "Feature",
          "geometry": {
             "type": "Point",
-            "coordinates": [-97.73647200312456, 30.265255505104278]
+            "coordinates": [-97.736472, 30.265255]
          },
          "properties": {
             "Artist" : "Ann M.Adams",
